@@ -13,11 +13,11 @@ React Native Installtion on win
 java jdk
 python
 android studio
-npm install - g react - native - cli
+npm install -g react-native-cli
 
 
 ESlint
 
-npm install - g eslint
+npm install -g eslint
 vscode ectention - > eslint by dirkbaeumer
-npm install--save - dev eslint - config - rallycoding(album)
+npm install --save -dev eslint-config-rallycoding(album)
